@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "662402741570",
+    "project_id": "voiture-e5b44",
+    "storage_bucket": "voiture-e5b44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662402741570:android:c10027b75e52a7bd2984db",
+        "android_client_info": {
+          "package_name": "com.example.voiture"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVRl2mvgNBGG3JM3WkklRtfpybdKl8oJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
